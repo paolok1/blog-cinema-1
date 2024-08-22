@@ -26,6 +26,7 @@ nav{
     height: 300px;
 }
 
+
 @media screen and( max-width: 670px){
     h1{
         font-size: 2rem;
